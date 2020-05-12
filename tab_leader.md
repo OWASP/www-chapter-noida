@@ -16,4 +16,4 @@ He has authored couple research papers considering the broader domain of securit
 
 Instagram: [@vaibhavkrjha](https://www.instagram.com/vaibhavkrjha)
 
-[Personal Website] (http://www.vaibhavjha.com)
+[Personal Website](http://www.vaibhavjha.com)
