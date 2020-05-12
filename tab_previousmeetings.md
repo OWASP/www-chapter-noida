@@ -25,7 +25,7 @@ tags: blr
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>15 February 2020</p></td>
+<td><p>17 October  2019</p></td>
 <td><p>Lets Connect Coworking space)</p></td>
-<td><p>09:30 AM</p></td>
+<td><p>11:30 AM</p></td>
 </tr>
