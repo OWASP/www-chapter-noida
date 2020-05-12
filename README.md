@@ -5,9 +5,7 @@
   <a href="https://github.com/OWASP/www-chapter-noida"><img src="assets/images/OWASP.png"/>
 </h3>
 
-<img src="assets/images/OWASP.png"/>
 
-Welcome to OWASP NOIDA
 This is the source repository of OWASP Noida. The Chapter wiki is located at https://owasp.org/www-chapter-noida
 
 **Contributions**
