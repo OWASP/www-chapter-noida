@@ -2,8 +2,7 @@
 * Chapter Region -->
 
 
-![OWASP Noida Chapter](OWASP.png
-"OWASP Noida Chapter")
+/assets/images/<OWASP.png>
 
 ### Social Links
 
