@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Noida
-tags: Noida
+tags: owasp noida
 level: 1
 region: Asia
 ---
