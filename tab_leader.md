@@ -5,7 +5,7 @@ order: 1
 tags: noida
 ---
 
-# **Chapter Leader**\
+# **Chapter Leader**
 
 ### Vaibhav Jha (2019 - Present)
 
