@@ -1,5 +1,4 @@
 # www-chapter-noida
-OWASP Foundation Web Respository
 
 <img src="assets/images/OWASP.png"/>
 
