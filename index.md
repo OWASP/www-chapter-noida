@@ -6,7 +6,7 @@ level: 1
 region: Asia
 ---
 
-<img src="assets/images/OWASP.png"/>
+<h1 align="center"><img src="assets/images/OWASP.png"/></h1>
 
 ## About us
 The OWASP Noida Chapter meetings are FREE and OPEN to anyone interested in learning more about information & cyber security. We conduct regular meetings in Noida & Greater Noida Region.
