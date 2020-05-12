@@ -14,8 +14,9 @@ The OWASP Noida Chapter meetings are FREE and OPEN to anyone interested in learn
 ## Chapter Sponsors
 Some of the organisations supporting OWASP Noida’s chapter are below:
 
-Intersquad Cyber Intellingence
-Lets Connect Coworking
+**Intersquad Cyber Intellingence**
+
+**Lets Connect Coworking**
 
 For more information on how to sponsor and support OWASP Noida’s chapter in organising free and open security meets at your company/institution, contact our Chapter Leader.
 
@@ -23,7 +24,7 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
- ## Become a Presenter/Speakers
+## Become a Presenter/Speakers
 
 Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](mailto:vaibhavjha@owasp.org)
 
