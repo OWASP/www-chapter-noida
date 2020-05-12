@@ -2,7 +2,7 @@
 * Chapter Region -->
 
 
-/assets/images/<OWASP.png>
+<img src="assets/images/OWASP.png"/>
 
 ### Social Links
 
