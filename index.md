@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Noida
-tags: Noida OWASP Chapter India
+tags: Noida
 level: 1
 region: Asia
 ---
