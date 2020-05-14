@@ -12,6 +12,8 @@
 
 * [Instagram](https://www.instagram.com/owaspnoida/)
 
+* [Twitter](https://twitter.com/Noidaowasp)
+
 
 ### Become speaker
 
