@@ -17,10 +17,12 @@
 
 ### Become speaker
 
-* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
 
 
 ### Useful Links
-* [Become a Member](https://www.owasp.org/index.php/Membership)
+* [Become a Member](https://owasp.org/membership/)
 
-* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
+* [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
+
+* [Projects](https://owasp.org/projects/)
