@@ -22,7 +22,7 @@ For more information on how to sponsor and support OWASP Noida’s chapter in or
 
 Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](https://owasp.org/www-policy/operational/chapter-handbook-existing). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
-Everyone is welcome and encouraged to participate in our [Projects](https://owasp.org/projects/), [Local Chapters](https://owasp.org/chapters/), [Events](https://owasp.org/events/), [Online Groups](https://groups.google.com/a/owasp.com/, and [Community Slack Channel](https://owasp.slack.com/. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](https://owasp.org/membership/).
+Everyone is welcome and encouraged to participate in our [Projects](https://owasp.org/projects/), [Local Chapters](https://owasp.org/chapters/), [Events](https://owasp.org/events/. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](https://owasp.org/membership/).
 
 ## Become a Presenter/Speakers
 
