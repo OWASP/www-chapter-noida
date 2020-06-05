@@ -2,7 +2,7 @@
 
 * [Vaibhav Jha](mailto:vaibhav.jha@owasp.org)
 
-### Coordinator
+### Chapter Coordinator
 
 * [Mayank Raheja](mailto:)
 
