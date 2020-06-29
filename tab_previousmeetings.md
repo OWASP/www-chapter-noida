@@ -1,7 +1,7 @@
 ---
 
-title: previousmeetings
-displaytext: Previous Meetings
+title: meetings
+displaytext: Meetings
 layout: null
 tab: true
 order: 3
@@ -10,7 +10,7 @@ tags: owasp noida
 ---
 
 
-# **Previous Meeting Venue and Dates**
+# **Meeting Venue and Dates**
 
 <table>
 <thead>
@@ -34,3 +34,5 @@ tags: owasp noida
 <td><p>Lets Connect Coworking space</p></td>
 <td><p>11:30 AM</p></td>
 </tr>
+  
+  
