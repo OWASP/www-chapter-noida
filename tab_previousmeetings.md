@@ -34,5 +34,12 @@ tags: owasp noida
 <td><p>Lets Connect Coworking space</p></td>
 <td><p>11:30 AM</p></td>
 </tr>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>1 July  2020</p></td>
+<td><p>Instagram Live - https://instagram.com/vaibhavkrjha</p></td>
+<td><p>09.30 PM</p></td>
+</tr>
   
   
