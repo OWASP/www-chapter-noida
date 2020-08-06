@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Noida
 tags: owasp noida
 level: 1
-region: Asi
+region: Asia
 meetup-group: OWASP-Noida-Chapter
 country: India
 postal-code: 
