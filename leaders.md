@@ -4,7 +4,7 @@
 
 ### Chapter Coordinator
 
-* [Pooja Sharma](mailto:) SOC Analyst at NIIT Technologies
+* [Pooja Sharma](mailto:) 
 * [Mayank Raheja](mailto:) 
 
 
