@@ -2,10 +2,7 @@
 
 * [Vaibhav Jha](mailto:vaibhav.jha@owasp.org)
 
-### Chapter Coordinator
 
-* [Pooja Sharma](mailto:) 
-* [Mayank Raheja](mailto:) 
 
 
 ### Leader Contact
