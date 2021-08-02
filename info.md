@@ -28,10 +28,6 @@
 * [Projects](https://owasp.org/projects/)
 
 
-### Chapter Coordinator
-
-* [Pooja Sharma](mailto:) 
-* [Mayank Raheja](mailto:) 
 
 
 ### Leader Contact
