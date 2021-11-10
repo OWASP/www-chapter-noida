@@ -1,6 +1,6 @@
 ### Leader
 * [Vaibhav Jha](mailto:vaibhav.jha@owasp.org)
-* [Pooja Sharma)(mailto:)
+* [Pooja Sharma](mailto:)
 
 
 
