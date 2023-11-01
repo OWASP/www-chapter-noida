@@ -13,14 +13,9 @@ postal-code:
 <h1 align="center"><img src="assets/images/OWASP.png"/></h1>
 
 ## About us
-The OWASP Noida Chapter meetings are FREE and OPEN to anyone interested in learning more about information & cyber security. We conduct regular meetings in Noida & Greater Noida Region.
+The OWASP Noida Chapter meetings are FREE and OPEN to anyone interested in learning more about information & cyber security. 
 
 ## Chapter Sponsors
-Some of the organisations supporting OWASP Noida’s chapter are below:
-
-**Intersquad Cyber Intellingence**
-
-**Lets Connect Coworking**
 
 For more information on how to sponsor and support OWASP Noida’s chapter in organising free and open security meets at your company/institution, contact our Chapter Leader.
 
@@ -47,6 +42,3 @@ Would you like to speak on the upcoming OWASP Noida Webinar? [Contact Us](mailto
     - Presentation time required
 
 ## Local News
-- OWASP Noida's First Meetup and Webinar in Partnership with Lets Connect Coworking has been successfully completed.
-- Everyone is welcome to join us at our chapter meetings.
-- Stay tuned with the Chapter wiki & social media handles to get updates on upcomming webinars and meetings.
