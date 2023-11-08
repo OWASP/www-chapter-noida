@@ -36,15 +36,12 @@ Participate in our mission to enhance application security:
 - **Speak:** If you're an application security expert, consider sharing your knowledge at one of our events and contribute to the community.
 - **Contribute:** Collaborate on open-source projects, engage in research, and promote awareness of cybersecurity best practices.
 - **Connect:** Engage in discussions, share resources, and stay updated with the latest news on our online platforms:
-  - [Follow us on Twitter](https://twitter.com/OWASP_Noida)
-  - [Connect on LinkedIn](https://www.linkedin.com/company/owasp-noida)
-  - [Join our Discord Server](https://discord.gg/owasp-noida)
 
-## Chapter Leadership
-
-Meet the dedicated individuals leading the OWASP Noida Chapter:
-
-- **Chapter Leader:** [Your Chapter Leader's Name]
+  - [Connect us on Twitter](https://linkedin.com/owaspnoida)
+  - [Follow us on Twitter](https://twitter.com/owaspnoida)
+  - [Follow us on Facebook](https://www.facebook.com/owaspnoida/)
+  - [Follow us on Instagram](https://www.instagram.com/owaspnoida/)
+  - [Follow us on MeetUp](https://www.meetup.com/OWASP-Noida-Chapter/)
 
 ## Participation
 
@@ -61,9 +58,10 @@ We extend a warm invitation to everyone to get involved in various aspects of OW
 - **Community Slack Channel:** Join our Slack channel for real-time interaction.
 
 Diversity is a fundamental value across all our initiatives. OWASP is an excellent platform to learn about application security, establish valuable connections, and elevate your reputation as an expert in the field. We also encourage you to consider becoming a member or making a donation to support our ongoing efforts.
+
 ## Become a Presenter/Speakers
 
-Would you like to speak on the upcoming OWASP Noida Webinar? [Contact Us](mailto:vaibhavjha@owasp.org)
+Would you like to speak on the upcoming OWASP Noida Webinar? [Contact Us](mailto:om.kumar@owasp.org)
 
 **Email Format :**
 
@@ -78,12 +76,10 @@ Would you like to speak on the upcoming OWASP Noida Webinar? [Contact Us](mailto
     - Name / Title of the Presentation
     - Abstract of the presentation
     - Presentation time required
-
-
-
+ 
 ## Contact Us
 
-Do you have questions or want to get in touch? Reach out to our chapter leader at [your.chapter.leader@email.com](mailto:your.chapter.leader@email.com).
+Do you have questions or want to get in touch? Reach out to our chapter leader at [deepak.kumar@owasp.org](mailto:deepak.kumar@owasp.org) , [deepak.kumar@owasp.org](mailto:om.kumar@owasp.org)
 
 Join us in our mission to secure the digital world, one line of code at a time!
 
