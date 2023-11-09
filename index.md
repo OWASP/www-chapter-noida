@@ -79,7 +79,7 @@ Would you like to speak on the upcoming OWASP Noida Webinar? [Contact Us](mailto
  
 ## Contact Us
 
-Do you have questions or want to get in touch? Reach out to our chapter leader at [deepak.kumar@owasp.org](mailto:deepak.kumar@owasp.org) , [deepak.kumar@owasp.org](mailto:om.kumar@owasp.org)
+Do you have questions or want to get in touch? Reach out to our chapter leader at [deepak.kumar@owasp.org](mailto:deepak.kumar@owasp.org) , [om.kumar@owasp.org](mailto:om.kumar@owasp.org)
 
 Join us in our mission to secure the digital world, one line of code at a time!
 
