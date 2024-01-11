@@ -29,16 +29,9 @@ tags: owasp noida
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1</p></td>
-<td><p>17 October  2019</p></td>
-<td><p>Lets Connect Coworking space</p></td>
-<td><p>11:30 AM</p></td>
-</tr>
-</tr>
-<tr class="even">
 <td><p>2</p></td>
-<td><p>1 July  2020</p></td>
-<td><p>Instagram Live - https://instagram.com/vaibhavkrjha</p></td>
+<td><p>21 Jan  2024</p></td>
+<td><p>OWASP Delhi, Kalyan, and Noida Chapters Join Hands: A Security Extravaganza</p></td>
 <td><p>09.30 PM</p></td>
 </tr>
   
