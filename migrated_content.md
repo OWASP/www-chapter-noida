@@ -9,57 +9,31 @@ region: Middle East
 
 
 ---
-![OWASPNoida.png](OWASPNoida.png "OWASPNoida.png")
 
-## About us
+# Unveiling OWASP Noida Chapter
 
-The **OWASP Noida Chapter** meetings are FREE and OPEN to anyone
-interested in learning more about information & cyber security. We
-conduct regular meetings in Noida & Greater Noida Region.
+Welcome to the realm of cybersecurity enlightenment - the **OWASP Noida Chapter**! Our meetings are not just gatherings; they are portals to a world of information and cyber security knowledge, open to all enthusiasts in Noida and Greater Noida Region.
 
-## Chapter Sponsors
+## Embracing Support
 
-Some of the organisations supporting OWASP Noida's chapter are below:
+We extend our gratitude to organizations that stand as pillars for OWASP Noida's chapter:
 
-**Intersquad Cyber Intelligence**
+- **Intersquad Cyber Intelligence**
+- **Lets Connect Coworking**
 
-**Lets Connect Coworking**
+For details on how your company or institution can support and sponsor OWASP Noida's chapter, contact our Chapter Leader.
 
-For more information on how to sponsor and support OWASP Noida's chapter
-in organising free and open security meets at your company/institution,
-contact our Chapter Leader.
+## Spotlight on Presenters
 
-## Become a Presenter/Speaker
-
-Submit your presentation for our upcoming OWASP Noida Chapter Meeting
-[Mail Us](mailto:vaibhav.jha@owasp.org)
+Calling all cybersecurity enthusiasts to step into the spotlight! Submit your presentation for our upcoming OWASP Noida Chapter Meeting. [Mail Us](mailto:vaibhav.jha@owasp.org) and be a part of shaping the cybersecurity narrative.
 
 ## **Local News**
 
 # **Upcoming Chapter Meetup**
 
-## OWASP Noida's Kickstart Meetup - October 17th, 2019 11:10 AM
+Stay tuned for the upcoming chapter meetup, where the language of choice is English. Dive into discussions, learn, and connect with fellow enthusiasts.
 
-**Venue - Lets Connect Coworking, Noida**
-
-Address: D-41, Noida Rd, D Block, Sector 59, Noida, Uttar Pradesh 201301
-
-**Live Broadcast's Link**
-
-Facebook - <https://www.facebook.com/vaibhavkrjha>
-
-**Agenda:**
-
-11:00 am - 11:10 am: **Introductions and Chapter Updates**
-
-11:10 am - 12:00 pm: **IOT Security: risk and challenges by Mr. Ankit
-Shankar Giri**
-
-12:00 pm - 12:15 pm: ***Coffee/Tea Break***
-
-12:15 pm - 01:15 pm: **Android App Pentesting by Mr. Mayank Raheja**
-
-01:15 pm - 01:30 pm **Ending Note & Future Plans of the Chapter**
+At OWASP Noida Chapter, we believe in the power of knowledge, collaboration, and community. Join us on this journey of cybersecurity exploration, where every meet-up is an opportunity to expand your horizons.
 
 # Stay Updated
 
