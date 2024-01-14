@@ -2,8 +2,6 @@
 * Chapter Region -->
 
 
-<img src="assets/images/OWASP1.png"/>
-
 ### Social Links
 
 * [MeetUp](https://www.meetup.com/OWASP-Noida-Chapter/)
