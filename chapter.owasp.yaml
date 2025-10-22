@@ -1,0 +1,32 @@
+community:
+  - name: chapter-noida
+    platform: slack
+    url: https://owasp.slack.com/archives/CLCJT075H
+    description: Welcome to the OWASP chapter of Noida ( INDIA ).
+leaders:
+  - name: Deepak Kumar
+    email: deepak.kumar@owasp.org
+  - name: Kashish Kanojia
+    email: kashish.kanojia@owasp.org
+    github: cyberfascinate
+  - name: Kushaan Dua
+    email: kushaan.dua@owasp.org
+    github: CyberLior
+location:
+  country: India
+  country_code: IN
+  region: Uttar Pradesh
+  city: Noida
+  latitude: 28.5706333
+  longitude: 77.3272147
+meetup_group: OWASP-Noida-Chapter
+name: OWASP Noida
+repositories:
+  - name: www-chapter-noida
+    url: https://github.com/OWASP/www-chapter-noida
+    description: OWASP Foundation Web Repository
+tags:
+  - owasp
+  - noida
+  - custom-tag-1
+website: https://owasp.org/www-chapter-noida
