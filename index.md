@@ -44,7 +44,7 @@ Get involved and be a part of our mission to enhance application security:
 
 ## Unveiling the Cyber Odyssey
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation committed to enhancing software security. Our projects, tools, documents, forums, and chapters are open to all who share an interest in advancing application security.
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation committed to enhancing software security. Our projects, tools, documents, forums, and chapters are open to all who share an interest in advancing application security.
 
 Dive into OWASP's world:
 
